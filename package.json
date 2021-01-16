@@ -22,5 +22,6 @@
     "gulp-autoprefixer": "^7.0.1",
     "gulp-clean-css": "^4.3.0",
     "gulp-sass": "^4.1.0"
-  }
+  },
+  "dependencies": {}
 }
